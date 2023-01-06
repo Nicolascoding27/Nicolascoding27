@@ -7,8 +7,8 @@ I'm the CPO at Cerebrum, in Cerebrum we believe the current identification syste
 In the last years I have been focused on learning about Zero-knowledge proofs and cryptography, i believe that it has the potential to leverage the future of our society and the internet. I was part of the second cohort of Zk builders from Mina Protocol and I have built multiple projects focused on exploring the potential of the technology</br>
  
 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/F6O1O2saVuBbYCfZhm/giphy.gif" width="500" height="320" />
+<iframe src="https://giphy.com/embed/F6O1O2saVuBbYCfZhm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-security-scanning-F6O1O2saVuBbYCfZhm">via GIPHY</a></p>
+  
 
 **languages and tools:**  
 
